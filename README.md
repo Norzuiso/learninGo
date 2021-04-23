@@ -1,2 +1,2 @@
 # learninGo
-I'm learning Go, so i want to have my advance here
+I'm learning Go, so i want to have my advance here... and some stuff
